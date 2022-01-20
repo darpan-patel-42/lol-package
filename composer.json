@@ -1,0 +1,19 @@
+{
+    "name": "darpan/lol",
+    "description": "This will blow your Mind",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Darpan\\Lol\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Darpan",
+            "email": "pateldarpan4295@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
